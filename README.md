@@ -1,4 +1,4 @@
 testing_git
 ===========
 
-Demoing git on github
+## This tests out git and github.
